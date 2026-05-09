@@ -1,0 +1,6 @@
+{
+  "name": "Legal Chicks Poultry Farm Dashboard",
+  "description": "An offline-first poultry farm management system for recording daily operations, egg production, feed, mortality, and financials. Features PWA capabilities with service workers and local storage sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
